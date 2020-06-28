@@ -7,4 +7,5 @@ Since Oct. 2017, when I became an undergraduate reserach assistant, I have been 
 - Data Visualization;
 
 I shared several codes in the repository for the reference of any people interested in them. 
+Feel free to [contact me](ruoshui.li@hotmail.com) if you have any questions. 
 
